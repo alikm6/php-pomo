@@ -29,6 +29,11 @@ __("Hello World")
 
 This function will return the translated text, if it is available in the loaded MO file.
 
+## License
+
+This package is licensed under the MIT License. See the LICENSE file for details.
+
+
 ## Credits
 POMO is inspired by the POMO package used in WordPress. The files used in this package are located at:
 

@@ -1,6 +1,7 @@
 {
   "name": "alikm6/php-pomo",
   "description": "PHP package for multi-lingualizing scripts using PO and MO files",
+  "license": "MIT",
   "keywords": [
     "pomo",
     "po",
